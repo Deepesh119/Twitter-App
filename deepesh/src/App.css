@@ -1,0 +1,135 @@
+    * {
+        padding: 0%;
+        margin: 0%;
+    }
+    
+    #icon_spotify {
+        height: 80px;
+        width: 50px;
+        margin-left: 30px;
+        margin-top: 10px;
+        color: white;
+    }
+    
+    .left {
+        background-color: black;
+        width: 20%;
+        height: 100%;
+        position: fixed;
+    }
+    
+    #heading {
+        color: white;
+        margin-left: 100px;
+        margin-top: -50px;
+    }
+    
+    .heading {
+        color: white;
+        margin-left: 80px;
+        margin-top: 30px;
+    }
+    
+    .heading_one {
+        color: white;
+        margin-top: 100px;
+        margin-left: 80px;
+    }
+    
+    .heading_two {
+        color: white;
+        margin-top: 100px;
+        margin-left: 10px;
+    }
+    
+    .heading_two_one {
+        color: white;
+        margin-top: 5px;
+        margin-left: 10px;
+        margin-bottom: 60px;
+    }
+    
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .grey {
+        margin-left: 20%;
+    }
+    
+    .card_one {
+        margin-top: 60px;
+        width: 30px;
+        height: 340px;
+    }
+    
+    #id_one {
+        display: flex;
+        flex-direction: row;
+        background-color: #330000;
+        overflow-y: scroll;
+    }
+    
+    .button_incline {
+        align-self: center;
+    }
+    
+    .class_class {
+        display: flex;
+        flex-direction: row;
+        margin-top: 40px;
+    }
+    
+    .bottom {
+        margin-bottom: 40px;
+    }
+    
+    .Login_form {
+        margin-left: 30%;
+        margin-top: 40px;
+    }
+    
+    .Login_form_one {
+        margin-top: 10px;
+    }
+    
+    .ziddi {
+        background-color: #330000;
+        color: white;
+    }
+    
+    .searchbaroption {
+        margin-left: 30%;
+        margin-top: 50px;
+    }
+    
+    .playlist {
+        background-color: black;
+        color: white;
+    }
+    
+    #searchkro {
+        height: 40px;
+        width: 30%;
+    }
+    
+    #buttonhumein {
+        height: 40px;
+        width: 50px;
+        border: 2px black;
+        background-color: grey;
+    }
+    
+    .musicplayer {
+        justify-content: space-evenly;
+        margin-left: 40%;
+    }
+    
+    .music {
+        margin-left: 30%;
+    }
+    
+    .height_one {
+        height: 100px;
+    }

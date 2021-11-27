@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.right_top {
+    background-color: black;
+    color: white;
+}
+
+.right_color {
+    color: white;
+    margin-left: 24%;
+    height: 40px;
+}
+
+.size {
+    height: 40px;
+    margin-top: 25px;
+}
+
+Card {
+    height: 50px;
+    width: 50px;
+}
+
+#button_ui {
+    margin-left: 80%;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+#one {
+    background-color: black;
+}
