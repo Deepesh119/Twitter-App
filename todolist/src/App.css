@@ -1,0 +1,76 @@
+   * {
+       margin: 0px;
+       padding: 0px;
+       font-family: cursive;
+       color: blue;
+       text-shadow: 2px 2px 2px solid blue;
+       background-color: black;
+       font-size: 15px;
+   }
+   
+   .children_one {
+       margin-left: 30%;
+       margin-top: 20px;
+       border: 3px solid red;
+       height: 50vh;
+       width: 30%;
+       box-shadow: 2px red;
+       background-image: url("https://images8.alphacoders.com/379/379102.jpg");
+   }
+   
+   .children_one_one {
+       margin-left: 20px;
+   }
+   
+   input {
+       width: 80%;
+       height: 18px;
+       background-color: white;
+   }
+   
+   ol {
+       overflow-y: scroll;
+       height: 60%;
+       background-color: white;
+       margin-right: 10px;
+       margin-top: 0px;
+       padding: 0px;
+   }
+   
+   .listofitem {
+       margin-top: 50px;
+       margin-left: 40px;
+       height: 70%;
+       background-color: white;
+   }
+   
+   button {
+       height: 25px;
+       width: 10%;
+       background-color: white;
+   }
+   
+   .backgroundcolorshouldbegievn {
+       background-color: white;
+       color: black;
+       font-family: sans-serif;
+   }
+   
+   .coloroftopheading {
+       color: white;
+       text-shadow: 2px 2px 2px white;
+       margin-left: 30%;
+       margin-bottom: 40px;
+       margin-top: 10px;
+       font-size: 30px;
+   }
+   
+   li {
+       background-color: pink;
+   }
+   
+   .signcss {
+       display: flex;
+       flex-direction: row;
+       background-color: pink;
+   }
