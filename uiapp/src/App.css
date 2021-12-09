@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.appcss {
+    display: grid;
+    grid-template-columns: 30vw 45vw 25vw;
+    height: 100vh;
+}
+
+.left {
+    height: 100vh;
+    position: fixed;
+    width: 33vw;
+}
+
+.facebookheading {
+    margin-left: 30%;
+    width: 100px;
+    color: blue;
+}
+
+ul {
+    margin-left: 20%;
+    list-style-type: none;
+    margin-top: 50px;
+}
+
+ul li {
+    margin-top: 20px;
+    font-size: 20px;
+    width: 200px;
+}
+
+ul li:hover {
+    background-color: gainsboro;
+}
+
+.bottom {
+    margin-top: 120%;
+    width: 250px;
+    height: 50px;
+}
+
+.middle {
+    background-color: grey;
+    height: 100vh;
+    overflow: scroll;
+    overflow-x: none;
+}
+
+#inputtext {
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 60px;
+    width: 450px;
+}
+
+@media screen {}
+
+#Buttontwo {
+    margin-left: 75%;
+    width: 80px;
+    border: 3px solid black;
+    box-shadow: 5px 5px 5px dimgray;
+}
+
+#Buttonone {
+    margin-left: 10%;
+    width: 80px;
+    border: 3px solid black;
+    box-shadow: 5px 5px 5px dimgray;
+}
+
+.Right {
+    height: 100vh;
+    position: fixed;
+}
+
+#imageofmaterialui {
+    height: 50px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#Card {
+    background-color: white;
+    margin-top: 10px;
+    height: 60px;
+    width: 80%;
+    border: 2px solid black;
+}
+
+Button:hover {
+    background-color: lightsteelblue;
+}
